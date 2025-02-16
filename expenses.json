@@ -1,0 +1,19 @@
+{
+    "expenses": [
+        {
+            "category": "Food",
+            "amount": 500.0,
+            "date": "2025-02-12"
+        },
+        {
+            "category": "Travel",
+            "amount": 700.0,
+            "date": "2024-04-05"
+        },
+        {
+            "category": "Grocery",
+            "amount": 800.0,
+            "date": "2025-01-22"
+        }
+    ]
+}

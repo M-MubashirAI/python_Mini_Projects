@@ -80,16 +80,6 @@ Enter your new task: Complete Python project
 2. ✅ Review GitHub repositories
 ```
 
-## 📝 Best Practices for GitHub
-
-✅ Use meaningful commit messages (e.g., "Added task deletion feature")
-
-✅ Keep the repository well-structured and clean
-
-✅ Document the project in `README.md`
-
-✅ Push updates regularly
-
 ## 📌 How to Push Updates to GitHub
 
 Add all changes:

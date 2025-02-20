@@ -1,0 +1,26 @@
+[
+    {
+        "ID": "88888",
+        "Name": "Mubashir Malik",
+        "Course": "AI",
+        "Marks": 90.0
+    },
+    {
+        "ID": "11111",
+        "Name": "kamran",
+        "Course": "prompt engineer",
+        "Marks": 50.0
+    },
+    {
+        "ID": "22222",
+        "Name": "shahid",
+        "Course": "MLT",
+        "Marks": 60.0
+    },
+    {
+        "ID": "33333",
+        "Name": "Alao-ul-Din",
+        "Course": "MLT",
+        "Marks": 80.0
+    }
+]

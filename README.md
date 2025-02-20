@@ -40,7 +40,7 @@ Welcome to the **Python Mini Projects** repository! 🚀 This collection of proj
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/Python-Mini-Projects.git
+   git clone https://github.com/M-MubashirAI/Python-Mini-Projects.git
    cd Python-Mini-Projects
    ```
 
@@ -66,8 +66,8 @@ Welcome to the **Python Mini Projects** repository! 🚀 This collection of proj
 ## 👨‍💻 Author
 **Muhammad Mubashir**  
 *Computer Science Student | AI & ML Enthusiast*  
-🔗 [LinkedIn](https://www.linkedin.com/in/yourprofile)  
-🔗 [GitHub](https://github.com/yourusername)  
+🔗 [LinkedIn](https://www.linkedin.com/immhuammadmubashir678)  
+🔗 [GitHub](https://github.com/M-MubashirAI)  
 
 Feel free to explore the projects, contribute, or reach out for collaboration! 🚀
 

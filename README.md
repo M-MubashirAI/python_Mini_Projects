@@ -66,8 +66,6 @@ Welcome to the **Python Mini Projects** repository! 🚀 This collection of proj
 ## 👨‍💻 Author
 **Muhammad Mubashir**  
 *Computer Science Student | AI & ML Enthusiast*  
-🔗 [LinkedIn](www.linkedin.com/in/immuhmmadmubashir678)  
-🔗 [GitHub](https://github.com/M-MubashirAI)  
 
 Feel free to explore the projects, contribute, or reach out for collaboration! 🚀
 

@@ -1,0 +1,16 @@
+[
+    {
+        "name": "AI project",
+        "description": "AI project in which machine learnign and feature engineerin and Data visualization is core concept",
+        "due_date": "2025-02-22",
+        "priority": "High",
+        "status": "Pending"
+    },
+    {
+        "name": "walk",
+        "description": "walkin is so important like easting food is neccessory for body, same walk is neccessory for mind and all part of bogy.",
+        "due_date": "2025-02-20",
+        "priority": "Medium",
+        "status": "Pending"
+    }
+]
